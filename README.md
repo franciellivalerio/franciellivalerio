@@ -6,11 +6,6 @@
  Estudante de ADS 💻
  
  Fã de filmes e séries 🎞
- 
- Amo doces 🧁
-#
- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=franciellivalerio&theme=brown&bg_color=F5DEB3_color=F5DEB3&show_icons=true&icon_color=DAA520&title_color=D2691E&text_color)
- ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=SEUUSERNAME&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
 ## Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-A0522D?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEUUSERNAME/)
