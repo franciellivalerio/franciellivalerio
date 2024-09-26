@@ -3,9 +3,9 @@
 
 [![Typing SVG](<https://readme-typing-svg.demolab.com?font=Play&vCenter=true&left=true&size=50&pause=1000&color=FFF&width=1000&height=65&lines=Ol%C3%A1+%2C+eu+sou+a+Fran+👩🏿+;Seja+Bem-Vindo(a)+!+🤍>)](https://git.io/typing-svg)
 
-- 💻 Full Stack JavaScript Developer
+- 💻 Data Analytics and BI
 - 🧁 I love sweets
-- 💡 I've a study social network on X (@httpsfranverse) where I help other black people reach their goals in technology
+- 💡 I've a study social network on X and Instagram (@httpsfranverse) where I help other people reach their goals in technology
 - 📚 Student of Systems Analysis and Development
 - 🎞 Marvel fan 
 
