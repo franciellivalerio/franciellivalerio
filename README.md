@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF4191&height=120&section=header"/>
 
 
-[![Typing SVG](<https://readme-typing-svg.demolab.com?font=Play&vCenter=true&left=true&size=50&pause=1000&color=D91656&width=1000&height=65&lines=Ol%C3%A1+%2C+eu+sou+a+Fran+👩🏿+;Seja+Bem-Vindo(a)+!+🤍>)](https://git.io/typing-svg)
+[![Typing SVG](<https://readme-typing-svg.demolab.com?font=Play&vCenter=true&left=true&size=50&pause=1000&color=D91656&width=1000&height=65&lines=Hi%C3%1+%2+I+am+Fran+👩🏿+;Welcome+!+!+🤍>)](https://git.io/typing-svg)
 
 - 🎓 I'm actively studying and building projects in the field of **Data & AI**, with a strong focus on:
 
