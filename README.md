@@ -28,8 +28,39 @@
 
 <div align = center>
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=franciellivalerio&layout=compact&bg_color=FFFFFF&border_color=FFFFFF&title_color=FF4191&text_color=000000)
+## 🚀 Tech Stack
 
+### 🔹 Programming & Data
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?logo=plotly&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-009688?logo=python&logoColor=white)
+
+### 🔹 Data Engineering
+![ETL](https://img.shields.io/badge/ETL-FF6F00?logo=apacheairflow&logoColor=white)
+![Pipelines](https://img.shields.io/badge/Data%20Pipelines-025E8C?logo=apacheairflow&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FC3F1D?logo=databricks&logoColor=white)
+
+### 🔹 Machine Learning & AI
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
+
+### 🔹 Business Intelligence
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?logo=microsoftexcel&logoColor=white)
+
+### 🔹 Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
+
+### 🔹 Cloud & Tools
+![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
 </div>
 
 ## Connect with me 📌
