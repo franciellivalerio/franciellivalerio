@@ -3,11 +3,22 @@
 
 [![Typing SVG](<https://readme-typing-svg.demolab.com?font=Play&vCenter=true&left=true&size=50&pause=1000&color=D91656&width=1000&height=65&lines=Ol%C3%A1+%2C+eu+sou+a+Fran+👩🏿+;Seja+Bem-Vindo(a)+!+🤍>)](https://git.io/typing-svg)
 
-- 💻 Data Analytics and BI
-- 🧁 I love sweets
-- 💡 I've a study social network on X and Instagram (@httpsfranverse) where I help other people reach their goals in technology
-- 📚 Student of Systems Analysis and Development
-- 🎞 Marvel fan 
+- 🎓 I'm actively studying and building projects in the field of **Data & AI**, with a strong focus on:
+
+- 📊 Data Analytics and Data Science  
+- 🤖 Machine Learning and Artificial Intelligence  
+- 🗂️ Big Data and Data Pipelines (ETL)  
+- 🗃️ SQL for relational and non-relational databases  
+- 📈 Business Intelligence with Power BI  
+- 🔄 Data Engineering practices (automation and pipelines)  
+
+📚 I'm currently a student of **Systems Analysis and Development** and **Computer Science** 
+ 
+✅ Certified in **Databricks Fundamentals**  
+
+💡 I also run a study social network on X and Instagram where I share knowledge and help people reach their goals in technology. 
+ 
+🧁 Besides data, I love sweets, and 🎞 I’m a big Marvel fan!
 
 <div align = center>
  
