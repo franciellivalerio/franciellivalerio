@@ -17,17 +17,10 @@
 - 📈 Business Intelligence with Power BI  
 - 🔄 Data Engineering practices (automation and pipelines)  
 
-📚 I'm currently a student of **Systems Analysis and Development** and **Computer Science**  
-✅ Certified in **Databricks Fundamentals**  
+📚 I'm currently a student of **Systems Analysis and Development**
+✅ Certified in **Databricks Fundamentals and Generative AI**  
 
 💡 I also run a study social network on X and Instagram [@httpsfranverse](https://x.com/httpsfranverse) where I share knowledge and help people reach their goals in technology.  
-🍬 Besides data, I love sweets, and 🎬 I’m a big Marvel fan!  
-
----
-
-## 📊 GitHub Stats  
-
-<img src="https://github-readme-stats.vercel.app/api?username=franciellivalerio&theme=transparent&bg_color=FFFFFF&border_color=E90074&show_icons=true&icon_color=E90074&title_color=E90074&text_color=000000" height="150"/>
 
 ---
 
